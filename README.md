@@ -14,6 +14,8 @@ Puedes instalar las dependencias necesarias utilizando pip:
 Copy code
 pip install selenium python-dotenv
 
+<span title="pip install selenium python-dotenv"><i class="fas fa-copy"></i></span>
+
 Uso
 Clona este repositorio en tu máquina local:
 bash
