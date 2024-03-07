@@ -9,13 +9,13 @@ Antes de ejecutar el script de automatización, asegúrate de tener instalado lo
 - Chromedriver (o el controlador adecuado para tu navegador)
 - Python Dotenv
 
-Puedes instalar las dependencias necesarias utilizando pip, dirigete al directorio del proyecto dentro de la consola 
-
-cd _nombre-repositorio donde clonaste el proyecto_ 
-
-Y ejecuta el siguiente comando:
+Puedes instalar las dependencias necesarias utilizando pip, abre la consola de comandos y ejecuta el siguiente comando:
 
 pip install selenium python-dotenv
+
+NOTA:
+
+Tanto Python en su versión 3.11.0 como Chromedriver pueden instalarse desde sus paginas oficiales.
 
 ## Uso
 
