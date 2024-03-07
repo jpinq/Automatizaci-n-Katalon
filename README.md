@@ -1,5 +1,5 @@
 # Automatizacion-Katalon
-Este proyecto tiene como objetivo automatizar la interacción con un formulario web utilizando Selenium WebDriver. En este caso, se utiliza una página de demostración disponible en https://katalon-demo-cura.herokuapp.com/.
+Este proyecto tiene como objetivo automatizar la interacción con un formulario web utilizando Selenium WebDriver. En este caso, se utiliza una página de demostración disponible en [Página demo Katalon](https://katalon-demo-cura.herokuapp.com/)
 
 ## Requisitos
 Antes de ejecutar el script de automatización, asegúrate de tener instalado lo siguiente:
@@ -23,7 +23,7 @@ Tanto Python en su versión 3.11.0 como Chromedriver pueden instalarse desde sus
 
 Abre la consola, ubicate en un directorio donde quieres que el proyecto quede alojado y ejecuta el siguiente comando:
 
-git clone https://github.com/tu-usuario/nombre-repositorio.git <code>
+git clone https://github.com/jpinq/Automatizacion-Katalon.git
 
 ### Ve al directorio del proyecto:
 
