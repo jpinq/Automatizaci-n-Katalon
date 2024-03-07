@@ -25,10 +25,9 @@ git clone https://github.com/tu-usuario/nombre-repositorio.git <code>
 
 cd nombre-repositorio
 
-Crea un archivo .env en el directorio raíz del proyecto y configurar las variables de entorno USER_LOGIN y PASSWORD_LOGIN con las credenciales proporcionadas en la página de inicio de sesión de [Katalon](https://katalon-demo-cura.herokuapp.com/profile.php#login)
+Modificar el archivo **_archivo.env_** en el directorio raíz del proyecto y configurar las variables de entorno USER_LOGIN y PASSWORD_LOGIN con las credenciales proporcionadas en la página de inicio de sesión de [Katalon](https://katalon-demo-cura.herokuapp.com/profile.php#login)
 
 USER_LOGIN = _usuario obtenido en la página_
-
 PASSWORD_LOGIN = _Contraseña obtenida en página_
 
 ## Ejecuta el script de automatización:
