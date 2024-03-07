@@ -16,6 +16,7 @@ pip install selenium python-dotenv
 
 ## Uso
 
+> [!IMPORTANT]
 ### Clona este repositorio en tu máquina local:
 
 git clone https://github.com/tu-usuario/nombre-repositorio.git
