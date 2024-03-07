@@ -11,21 +11,23 @@ Antes de ejecutar el script de automatización, asegúrate de tener instalado lo
 
 #### Puedes instalar las dependencias necesarias utilizando pip:
 
-pip install selenium python-dotenv
+Ve al directorio del proyecto dentro de la consola cd _nombre-repositorio donde clonaste el proyecto_ y ejecuta el siguiente comando:
 
+pip install selenium python-dotenv
 
 ## Uso
 
-
 ### Clona este repositorio en tu máquina local:
+
+Abre la consola, ubicate en un directorio donde quieres que el proyecto quede alojado y ejecuta el siguiente comando:
 
 git clone https://github.com/tu-usuario/nombre-repositorio.git <code>
 
 ### Ve al directorio del proyecto:
 
-cd nombre-repositorio
+cd _nombre-repositorio donde clonaste el proyecto_
 
-Modificar el archivo **_archivo.env_** en el directorio raíz del proyecto y configurar las variables de entorno USER_LOGIN y PASSWORD_LOGIN con las credenciales proporcionadas en la página de inicio de sesión de [Katalon](https://katalon-demo-cura.herokuapp.com/profile.php#login)
+Modifica el archivo **_archivo.env_** ubicado en el directorio raíz del proyecto y configura las variables de entorno USER_LOGIN y PASSWORD_LOGIN con las credenciales proporcionadas en la página de inicio de sesión de [Katalon](https://katalon-demo-cura.herokuapp.com/profile.php#login)
 
 USER_LOGIN = _usuario obtenido en la página_
 PASSWORD_LOGIN = _Contraseña obtenida en página_
