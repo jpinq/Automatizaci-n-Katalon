@@ -24,7 +24,7 @@ Ve al directorio del proyecto:
 
 cd nombre-repositorio
 
-Crea un archivo .env en el directorio raíz del proyecto y configura las variables de entorno USER_LOGIN y PASSWORD_LOGIN con las credenciales proporcionadas en la de inicio de sesión de [Katalon]{https://katalon-demo-cura.herokuapp.com/profile.php#login}.
+Crea un archivo .env en el directorio raíz del proyecto y configura las variables de entorno USER_LOGIN y PASSWORD_LOGIN con las credenciales proporcionadas en la de inicio de sesión de [Katalon](https://katalon-demo-cura.herokuapp.com/profile.php#login)
 makefile
 Copy code
 USER_LOGIN=usuario
